@@ -8,3 +8,5 @@ Bundle "chriskempson/base16-vim"
 
 " Required for Gblame in terminal vim
 Bundle "godlygeek/csapprox.git" 
+
+Bundle "severin-lemaignan/vim-minimap"

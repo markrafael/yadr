@@ -26,7 +26,7 @@ set hidden
 
 "turn on syntax highlighting
 syntax on
-
+set guifont=Monaco:h11
 " Change leader to a comma because the backslash is too far away
 " That means all \x commands turn into ,x
 " The mapleader has to be set before vundle starts loading all 
